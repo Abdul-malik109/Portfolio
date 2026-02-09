@@ -12,14 +12,18 @@ export default function Header() {
                 I enjoy transforming raw data into meaningful insights.</p>
 
             <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
-                <a href="#contact"
+                
+                <a href="public/assets/Abdul_Malik_Data_Analyst_Resume.pdf"
                     className="px-10 py-2.5 border rounded-full bg-gradient-to-r from-[#b820e6] to-[#da7d20] text-white flex items-center gap-2 dark:border-transparent">
-                    contact me <img src="./assets/right-arrow-white.png" alt="" className="w-4" />
+                    Resume <img src="./assets/right-arrow-white.png" alt="" className="w-4" />
                 </a>
-
-                <a href="public/assets/Abdul_Malik_Data_Analyst_Resume.pdf" download
-                    className="px-10 py-2.5 rounded-full border border-gray-300 dark:border-white/25 hover:bg-slate-100/70 dark:hover:bg-darkHover flex items-center gap-2 bg-white dark:bg-transparent dark:text-white">
-                    my resume <img src="./assets/download-icon.png" alt="" className="w-4 dark:invert" />
+                <a href="https://github.com/Abdul-malik109"
+                    className="px-10 py-2.5 border rounded-full bg-gradient-to-r from-[#b820e6] to-[#da7d20] text-white flex items-center gap-2 dark:border-transparent">
+                    Github <img src="./assets/right-arrow-white.png" alt="" className="w-4" />
+                </a>
+                <a href="https://www.linkedin.com/in/abdulml87/"
+                    className="px-10 py-2.5 border rounded-full bg-gradient-to-r from-[#b820e6] to-[#da7d20] text-white flex items-center gap-2 dark:border-transparent">
+                    LinkedIN<img src="./assets/right-arrow-white.png" alt="" className="w-4" />
                 </a>
             </div>
         </div>
