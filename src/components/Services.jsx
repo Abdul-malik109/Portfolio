@@ -27,7 +27,7 @@ export default function Services() {
     ];
     return (
         <div id="services" className="w-full px-[12%] py-10 scroll-mt-20">
-            <h4 className="text-center mb-2 text-lg font-Ovo">My Work</h4>
+            <h4 className="text-center mb-2 text-lg font-Ovo">My Projects</h4>
             <h2 className="text-center text-5xl font-Ovo">Data Analytics Projects</h2>
             <p className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo">Here are some of the data analytics projects I have worked on, 
                 focusing on data cleaning, analysis, and deriving actionable business insights.</p>
