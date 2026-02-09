@@ -13,8 +13,8 @@ export default function Header() {
 
             <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
                 
-                <a href="/assets/Abdul_Malik_Data_Analyst_Resume.pdf"
-                    className="px-10 py-2.5 border rounded-full bg-gradient-to-r from-[#b820e6] to-[#da7d20] text-white flex items-center gap-2 dark:border-transparent" download>
+                <a href="Abdul_Malik_Data_Analyst_Resume.pdf" download
+                    className="px-10 py-2.5 border rounded-full bg-gradient-to-r from-[#b820e6] to-[#da7d20] text-white flex items-center gap-2 dark:border-transparent">
                     Resume <img src="./assets/right-arrow-white.png" alt="" className="w-4" />
                 </a>
                 <a href="https://github.com/Abdul-malik109"
