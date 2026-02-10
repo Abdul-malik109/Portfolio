@@ -40,7 +40,7 @@ export default function About() {
 
             <div className="flex w-full flex-col lg:flex-row items-center gap-20 my-20">
                 <div className="max-w-max mx-auto relative">
-                    <img src='./assets/user-image.png' alt="" className="w-64 sm:w-80 rounded-3xl max-w-none" />
+                    <img src='public/assets/profile pic.jpeg' alt="" className="w-64 sm:w-80 rounded-3xl max-w-none" />
 
                 </div>
                 <div className="flex-1">
